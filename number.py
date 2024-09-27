@@ -44,4 +44,12 @@ else:
 
 
 
-
+#area and volume of a cube
+#hint area of the cube 6a, volume of the cube a3
+print("area and volume of a cube")
+cube=int(input("Enter the input: "))
+area=6*cube*cube
+print(f"{area} is the area of the cube")
+volume=int(input("Enter the volume: "))
+areas=volume*volume*volume
+print(f"{areas} is the volume of the cube")
