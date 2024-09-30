@@ -41,7 +41,7 @@ print("Hello {} and your last name is {} is that correct?".format(first_name,las
 #         Like a diamond in the sky. 
 # Twinkle, twinkle, little star, 
 #     How I wonder what you a
-
+print("Example for documentation string")
 print("""Twinkle, twinkle, little star,
         How I wonder what you are! 
         Up above the world so high,
